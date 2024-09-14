@@ -1,6 +1,6 @@
 # Laravel API Projects
 
-This repository contains two Laravel projects with controllers designed for handling API requests and managing user data. Below is a brief overview of the provided controllers and their functionalities.
+This repository contains two Laravel projects with controllers designed for handling API requests and managing user data taht is built to create a fault tolerance registration prototype. Below is a brief overview of the provided controllers and their functionalities.
 
 ## 1. PostController
 The PostController in registration project is responsible for handling form submissions and interacting with an external API.
